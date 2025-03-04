@@ -19,7 +19,7 @@ This repository provides a simple Python script to create an Ethereum wallet sui
 ### Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/usdt-wallet-creator.git
+git clone https://github.com/NadirAliOfficial/ethereum-usdt-wallet.git
 cd usdt-wallet-creator
 ```
 
